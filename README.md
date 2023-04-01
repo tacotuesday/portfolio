@@ -31,7 +31,7 @@ Before you can begin using this repository, please ensure you have the following
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/eda-and-modeling.git
+git clone https://github.com/tacotuesday/data_playground.git
 ```
 
 Navigate to the repository's root directory and create a virtual environment:
