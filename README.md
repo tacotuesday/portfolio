@@ -1,6 +1,6 @@
-# Grafton's Data Playground
+# Grafton Cook's Portfolio
 
-Welcome to Grafton's data playground repository! This repository contains a collection of Python notebooks and scripts to perform EDA and build machine learning models on various datasets related to my interests. My goal is to provide a comprehensive, easy-to-follow framework for data analysis and modeling that can be used by data scientists, researchers, and enthusiasts alike.
+Welcome to Grafton's portfolio repository! This repository contains a collection of Python notebooks and scripts to perform EDA and build machine learning models on various datasets related to my interests. My goal is to provide a comprehensive, easy-to-follow framework for data analysis and modeling that can be used by data scientists, researchers, and enthusiasts alike.
 
 ## Table of Contents
 
